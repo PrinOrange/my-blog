@@ -21,7 +21,7 @@ export default siteConfig({
   github: 'prinOrange',
 
   mastodon: 'https://mas.to/@terminels', // optional mastodon profile URL, provides link verification
-  zhihu: 'https://www.zhihu.com/people/prinOrange',
+  zhihu: 'prinOrange',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
