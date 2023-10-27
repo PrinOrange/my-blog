@@ -1,5 +1,6 @@
 * {
   box-sizing: border-box;
+  filter: grayscale(100%);
 }
 
 a {
@@ -57,6 +58,6 @@ body {
   background-color: var(--fg-color-1);
 }
 
-::-webkit-scrollbar-track {           
+::-webkit-scrollbar-track {
     background-color: var(--bg-color);
 }
